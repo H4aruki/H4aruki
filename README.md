@@ -1,8 +1,10 @@
 ## About me👋
 I'm a university student in Japan.Within the Computer Science major, I specialize particularly in the field of AI.
+
 Currently, i'm based in Nagoya,Japan, but I would like to work in another country if I get the chance someday.
 
 Please feel free to reach out via email or connect with me on [X](https://x.com/KH4aruki).
+
 
 ## Field of expertise
 - Python, JavaScript, GAS
