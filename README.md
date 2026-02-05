@@ -13,8 +13,10 @@ Please feel free to reach out via email or connect with me on [X](https://x.com/
 ## My Skils
 ![](https://skillicons.dev/icons?i=html,css,js,python)
 
-## Summary
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+## Hackathon
+技育キャンプハッカソン at August 2025 ：🏆Award for Efford
+
+Open Hack U KANAZAWA at September 2025
 
 
 
