@@ -11,7 +11,7 @@ Please feel free to reach out via email or connect with me on [X](https://x.com/
 
 
 ## My Skils
-![](https://skillicons.dev/icons?i=html,css,js,python)
+![](https://skillicons.dev/icons?i=html,css,js,python,github,notion)
 
 ## Hackathon
 技育キャンプハッカソン at August 2025 ：🏆Award for Efford
