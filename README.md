@@ -7,7 +7,7 @@ Please feel free to reach out via email or connect with me on [X](https://x.com/
 
 
 ## Field of expertise
-- Python, JavaScript, GAS
+- Python, JavaScript, TypeScript, GAS
 
 
 ## My Skils
