@@ -10,7 +10,7 @@ Please feel free to reach out via email or connect with me on [X](https://x.com/
 - Python, JavaScript, TypeScript, GAS
 
 
-## My Skils
+## My Skills
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,github,notion)
 
 ## Hackathon
