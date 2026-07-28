@@ -6,12 +6,10 @@ Currently, i'm based in Nagoya,Japan, but I would like to work in another countr
 Please feel free to reach out via email or connect with me on [X](https://x.com/KH4aruki).
 
 
-## Field of expertise
-- Python, JavaScript, TypeScript, GAS
-
 
 ## My Skills
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,go,github,notion)
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,python,go,github,notion,googleappsscript)](https://go-skill-icons.vercel.app)
 
 ## Hackathon
 技育キャンプハッカソン at August 2025 ：🏆Award for Efford
