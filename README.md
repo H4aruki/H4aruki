@@ -16,6 +16,7 @@ Please feel free to reach out via email or connect with me on [X](https://x.com/
 
 Open Hack U KANAZAWA at September 2025
 
+Summer Product Sprint 2026 Fukuoka by LINEヤフー株式会社
 
 
 
