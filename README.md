@@ -18,6 +18,8 @@ Open Hack U KANAZAWA at September 2025
 
 Summer Product Sprint 2026 Fukuoka by LINEヤフー株式会社
 
+DevFest GDFoC Japan Hackathon 2026
+
 
 
 
